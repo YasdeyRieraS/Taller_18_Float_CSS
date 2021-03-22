@@ -2,11 +2,11 @@
 
 ![Resultado](/images/result.png)
 
-Autor: Eduardo Oviedo Blanco
+Autor: Yasdey Riera
 
 Para usar este taller efectivamente, clone el código en su ambiente local.
 ```
-git clone https://github.com/edWAR6/CSS-Float-Workshop.git
+git clone https://github.com/YasdeyRieraS/Taller_18_Float_CSS.git
 ```
 Si desea subir el taller en su repositorio personal.
 Cree un repositorio en su perfil, luego:
